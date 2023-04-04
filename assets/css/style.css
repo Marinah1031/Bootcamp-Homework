@@ -54,7 +54,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
- /*paragraph font*/
+ /*paragraph section font*/
 p {
     font-size: 16px;
 }
@@ -86,6 +86,7 @@ p {
     margin-left: 20px;
 }
 
+/*side bar nav section with list of benefits*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -97,16 +98,19 @@ p {
     background-color: #2589bd;
 }
 
+/*Lead Generation section*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*Brand Awareness section*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*Cost Management Section*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -127,24 +131,28 @@ p {
     text-align: center;
 }
 
+/*image of gear with money symbol*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*image of light bulb over tux*/
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*image of larger gear with 3 coins*/
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*First section of information about Search Engine*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -153,7 +161,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Second section of information about Online Reputation*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -163,6 +171,7 @@ p {
     color: #ffffff;
 }
 
+/*Third section of Social Media*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -199,6 +208,7 @@ p {
     font-size: 36px;
 }
 
+/*bottom tab for catch phrase*/
 .footer {
     padding: 30px;
     clear: both;
@@ -206,6 +216,7 @@ p {
     text-align: center;
 }
 
+/*bottom tab with copyright*/
 .footer h2 {
     font-size: 20px;
 }
