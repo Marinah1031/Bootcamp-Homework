@@ -1,4 +1,4 @@
-/* the * symbol is universal, affects the entire display*/
+/* the * symbol is universal, affects the entire display in the very back*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -49,7 +49,7 @@ header nav label li {
     margin-left: 25px;
 }
 
-/*color of top bar of navigation*/
+/*a hyperlink anchor tool that is labeled by it's contents*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -69,17 +69,19 @@ p {
     background-position: center;
 }
 
-/*Distance between image and words in respect to the left.*/
+/*Distance between image and words with respect to the left.*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*Distance between image and words with respect to the right*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*content of the information int he blue boxes in columns*/
 .content {
     width: 75%;
     display: inline-block;
@@ -116,16 +118,19 @@ p {
     color: #ffffff;
 }
 
+/*Header 3 size*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*Header 3 size*/
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*Header 3 size*/
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
