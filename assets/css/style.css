@@ -39,12 +39,12 @@ header nav {
 }
 
 /*A breakdown of the navigation bar style.*/
-header nav ul {
+header nav label {
     list-style-type: none;
 }
 
 /*Specific listing from the navigation block with an inline-block style formatting.*/
-header nav ul li {
+header nav label li {
     display: inline-block;
     margin-left: 25px;
 }
