@@ -24,10 +24,12 @@ header h1 {
     font-size: 48px;
 }
 
+/* the .seo is a darker grey in the title of the website.*/
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/*This is where the navigation bar is located*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -36,24 +38,28 @@ header nav {
     font-size: 20px;
 }
 
+/*A breakdown of the navigation bar style.*/
 header nav ul {
     list-style-type: none;
 }
 
+/*Specific listing from the navigation block with an inline-block style formatting.*/
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/*color of top bar of navigation*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+ /*paragraph font*/
 p {
     font-size: 16px;
 }
 
+/*Front page Image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -63,6 +69,7 @@ p {
     background-position: center;
 }
 
+/*Distance between image and words in respect to the left.*/
 .float-left {
     float: left;
     margin-right: 25px;
