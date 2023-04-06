@@ -27,3 +27,5 @@ Adding commentary to showcawse the usage of each code and what function it has w
 git add, commit, and push so it is constantly saved.
 Making sure the original website does not change
 adding alt ="" to give a better description of the pictures for those who cannot see or if the image fails to upload.
+
+Help by tutor Trinh Nguyen and Instructors from UCI courses. 
