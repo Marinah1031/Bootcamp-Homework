@@ -28,4 +28,4 @@ git add, commit, and push so it is constantly saved.
 Making sure the original website does not change
 adding alt ="" to give a better description of the pictures for those who cannot see or if the image fails to upload.
 
-Help by tutor Trinh Nguyen and Instructors from UCI courses. 
+Help by AskBCS Learning Assistant to open up the file to start the assignment and Instructors from UCI courses. 
